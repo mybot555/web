@@ -1,5 +1,9 @@
 from telethon import TelegramClient, events, Button
 
+API_ID = '13740761'
+API_HASH = '4ce319a92c01fab2b02551af8d7f73a4'
+BOT_TOKEN = '7911049277:AAEonlYQG7fMeX6jmtIn5u4Ds32P-EG7hEg'
+
 repthon = TelegramClient('ClashBot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
 # --- رسالة الترحيب ---
