@@ -1,4 +1,4 @@
-from telethon import events, Button
+from telethon import TelegramClient, events, Button
 
 repthon = TelegramClient('ClashBot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
