@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 app.py & bash repub
+python3 app.py & python3 repub.py
