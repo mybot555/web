@@ -2,3 +2,4 @@ telethon-session-sqlalchemy
 telethon
 flask
 flask_restful
+PyVault
