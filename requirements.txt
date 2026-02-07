@@ -2,4 +2,4 @@ telethon-session-sqlalchemy
 telethon
 flask
 flask_restful
-git+https://github.com/Repthon-Ar/PyVault
+PyVault-Uploader
